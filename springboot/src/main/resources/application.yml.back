@@ -1,0 +1,12 @@
+server:
+  port: 10081
+user:
+  username: lisi
+  password: 123
+  nicknames:
+    - lisi
+    - zhaoliu
+  mobiles:
+    - num: 1001
+      brand: 华为
+

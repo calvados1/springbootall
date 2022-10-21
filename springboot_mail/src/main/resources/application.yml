@@ -1,0 +1,6 @@
+# 配置邮件
+spring:
+  mail:
+    host: smtp.qq.com # 网易 smtp.163.com,smtp.126.com
+    username: 1606143305@qq.com  # 使用哪个邮箱发送邮件
+    password: rognuzfrhzmkgifc
